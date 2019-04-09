@@ -2,7 +2,7 @@
 description: 'A Processing library for advanced color systems: XYZ and LAB.'
 ---
 
-# Color Converter for Processing LAB
+# Color Converter
 
 ### Introduction to color representations
 

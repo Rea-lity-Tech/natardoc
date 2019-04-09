@@ -10,8 +10,9 @@
 
 ## Processing Libraries
 
-* [Color Converter for Processing LAB](processing-libraries/color-converter-for-processing-lab.md)
-* [Skatolo GUI for Ruby and AR](processing-libraries/skatolo-gui-for-ruby-and-ar.md)
+* [Color Converter](processing-libraries/color-converter-for-processing-lab.md)
+* [Skatolo: GUI for Ruby and AR](processing-libraries/skatolo-gui-for-ruby-and-ar.md)
+* [Simple Point Cloud](processing-libraries/simple-point-cloud.md)
 
 ## Blog
 

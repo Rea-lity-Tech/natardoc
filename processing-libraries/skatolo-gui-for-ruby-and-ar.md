@@ -2,7 +2,7 @@
 description: 'Skatolo is a GUI library for Processing, forked from ControlP5'
 ---
 
-# Skatolo GUI for Ruby and AR
+# Skatolo: GUI for Ruby and AR
 
 ### Download
 
