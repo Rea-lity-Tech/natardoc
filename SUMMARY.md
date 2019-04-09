@@ -17,4 +17,5 @@
 ## Blog
 
 * [Webpacker, Bootstrap Studio, and Sinatra](blog-1/webpacker-bootstrap-studio-and-sinatra.md)
+* [About Natar and RealityTech](blog-1/about-natar-and-realitytech.md)
 
