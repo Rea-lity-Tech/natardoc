@@ -13,8 +13,8 @@
 * [Detection](natar-services/detection-services/README.md)
   * [Aruco](natar-services/detection-services/aruco.md)
   * [ChiliTags](natar-services/detection-services/chilitags.md)
-  * [QR Codes and Barcodes](natar-services/detection-services/qr-codes-and-barcodes.md)
   * [ARToolkitPlus](natar-services/detection-services/artoolkitplus.md)
+  * [QR Codes and Barcodes](natar-services/detection-services/qr-codes-and-barcodes.md)
 
 ## Processing Libraries
 
