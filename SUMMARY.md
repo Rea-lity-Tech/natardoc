@@ -16,6 +16,11 @@
   * [ARToolkitPlus](natar-services/detection-services/artoolkitplus.md)
   * [Circle detection](natar-services/detection-services/circle-detection.md)
   * [QR Codes and Barcodes](natar-services/detection-services/qr-codes-and-barcodes.md)
+* [Build a service](natar-services/build-a-service/README.md)
+  * [Javascript](natar-services/build-a-service/javascript.md)
+  * [C\#](natar-services/build-a-service/c.md)
+  * [Java](natar-services/build-a-service/java.md)
+  * [C++](natar-services/build-a-service/c++.md)
 
 ## Processing Libraries
 
