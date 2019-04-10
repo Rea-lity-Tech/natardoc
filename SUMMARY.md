@@ -8,6 +8,14 @@
   * [Download and installation](augmented-reality/papart-installation/download-and-installation.md)
   * [Test the libray](augmented-reality/papart-installation/test-the-libray.md)
 
+## Natar services
+
+* [Detection](natar-services/detection-services/README.md)
+  * [Aruco](natar-services/detection-services/aruco.md)
+  * [ChiliTags](natar-services/detection-services/chilitags.md)
+  * [QR Codes and Barcodes](natar-services/detection-services/qr-codes-and-barcodes.md)
+  * [ARToolkitPlus](natar-services/detection-services/artoolkitplus.md)
+
 ## Processing Libraries
 
 * [Color Converter](processing-libraries/color-converter-for-processing-lab.md)
