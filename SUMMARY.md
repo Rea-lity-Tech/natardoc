@@ -10,10 +10,11 @@
 
 ## Natar services
 
-* [Detection](natar-services/detection-services/README.md)
+* [Detections](natar-services/detection-services/README.md)
   * [Aruco](natar-services/detection-services/aruco.md)
   * [ChiliTags](natar-services/detection-services/chilitags.md)
   * [ARToolkitPlus](natar-services/detection-services/artoolkitplus.md)
+  * [Circle detection](natar-services/detection-services/circle-detection.md)
   * [QR Codes and Barcodes](natar-services/detection-services/qr-codes-and-barcodes.md)
 
 ## Processing Libraries
