@@ -10,6 +10,7 @@
 
 ## Natar services
 
+* [Cameras, videos and Images](natar-services/cameras-videos-and-images.md)
 * [Detections](natar-services/detection-services/README.md)
   * [Aruco](natar-services/detection-services/aruco.md)
   * [ChiliTags](natar-services/detection-services/chilitags.md)
@@ -40,4 +41,8 @@
 
 * [Webpacker, Bootstrap Studio, and Sinatra](blog-1/webpacker-bootstrap-studio-and-sinatra.md)
 * [About Natar and RealityTech](blog-1/about-natar-and-realitytech.md)
+
+## Protocol specification
+
+* [Video](protocol-specification/video.md)
 
