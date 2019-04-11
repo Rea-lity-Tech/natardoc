@@ -31,6 +31,10 @@
   * [C++](natar-services/build-a-service/c++/README.md)
     * [Image](natar-services/build-a-service/c++/image.md)
 
+## Protocol specification
+
+* [Video](protocol-specification/video.md)
+
 ## Processing Libraries
 
 * [Color Converter](processing-libraries/color-converter-for-processing-lab.md)
@@ -41,8 +45,4 @@
 
 * [Webpacker, Bootstrap Studio, and Sinatra](blog-1/webpacker-bootstrap-studio-and-sinatra.md)
 * [About Natar and RealityTech](blog-1/about-natar-and-realitytech.md)
-
-## Protocol specification
-
-* [Video](protocol-specification/video.md)
 
