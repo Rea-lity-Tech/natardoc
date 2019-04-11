@@ -21,7 +21,7 @@ QR Codes can encode text information. It can be scaled to contain larger amount 
 
 The same library can read and decode barcodes. 
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 
 

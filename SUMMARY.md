@@ -27,7 +27,8 @@
   * [Javascript](natar-services/build-a-service/javascript.md)
   * [C\#](natar-services/build-a-service/c.md)
   * [Java](natar-services/build-a-service/java.md)
-  * [C++](natar-services/build-a-service/c++.md)
+  * [C++](natar-services/build-a-service/c++/README.md)
+    * [Image](natar-services/build-a-service/c++/image.md)
 
 ## Processing Libraries
 
