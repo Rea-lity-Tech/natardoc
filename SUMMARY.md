@@ -40,6 +40,7 @@
 * [Color Converter](processing-libraries/color-converter-for-processing-lab.md)
 * [Skatolo: GUI for Ruby and AR](processing-libraries/skatolo-gui-for-ruby-and-ar.md)
 * [Simple Point Cloud](processing-libraries/simple-point-cloud.md)
+* [SVGExtended](processing-libraries/svgextended.md)
 
 ## Blog
 
