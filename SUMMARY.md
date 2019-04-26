@@ -7,6 +7,13 @@
 * [PapARt installation - version 1.4](augmented-reality/papart-installation/README.md)
   * [Download and installation](augmented-reality/papart-installation/download-and-installation.md)
   * [Test the libray](augmented-reality/papart-installation/test-the-libray.md)
+  * [PapARt as a Camera library](augmented-reality/papart-installation/untitled/README.md)
+    * [OPENCV](augmented-reality/papart-installation/untitled/opencv.md)
+    * [PROCESSING](augmented-reality/papart-installation/untitled/processing.md)
+    * [OPENNI2](augmented-reality/papart-installation/untitled/openni2.md)
+    * [REALSENSE](augmented-reality/papart-installation/untitled/realsense.md)
+    * [FFMPEG](augmented-reality/papart-installation/untitled/ffmpeg.md)
+    * [NATAR](augmented-reality/papart-installation/untitled/natar.md)
 
 ## Natar services
 
@@ -17,6 +24,7 @@
   * [ARToolkitPlus](natar-services/detection-services/artoolkitplus.md)
   * [Circle detection](natar-services/detection-services/circle-detection.md)
   * [QR Codes and Barcodes](natar-services/detection-services/qr-codes-and-barcodes.md)
+  * [Pose Estimator](natar-services/detection-services/pose-estimator.md)
 * [Viewers](natar-services/viewers/README.md)
   * [Admin interface](natar-services/viewers/admin-interface.md)
   * [Camera Clients](natar-services/viewers/camera-client-java.md)
