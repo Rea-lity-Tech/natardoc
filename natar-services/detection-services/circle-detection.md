@@ -13,5 +13,5 @@ description: Circle detection is exclusive to Natar !
 
 ### Marker example
 
-![A linear marker:  RRBRRB](../../.gitbook/assets/image%20%283%29.png)
+![A linear marker:  RRBRRB](../../.gitbook/assets/image%20%284%29.png)
 

@@ -4,17 +4,23 @@
 
 ## Augmented Reality
 
-* [PapARt installation - version 1.4](augmented-reality/papart-installation/README.md)
-  * [Download and installation](augmented-reality/papart-installation/download-and-installation.md)
-  * [Test the libray](augmented-reality/papart-installation/test-the-libray.md)
-  * [PapARt as a Camera library](augmented-reality/papart-installation/untitled/README.md)
-    * [OPENCV](augmented-reality/papart-installation/untitled/opencv.md)
-    * [PROCESSING](augmented-reality/papart-installation/untitled/processing.md)
-    * [OPENNI2](augmented-reality/papart-installation/untitled/openni2.md)
-    * [REALSENSE](augmented-reality/papart-installation/untitled/realsense.md)
-    * [FFMPEG](augmented-reality/papart-installation/untitled/ffmpeg.md)
-    * [NATAR](augmented-reality/papart-installation/untitled/natar.md)
-* [Natar installation - version 0.1](augmented-reality/natar-installation-version-0.1.md)
+* [Your device](augmented-reality/your-device.md)
+* [Processing \[FR\]](augmented-reality/processing.md)
+* [Unity3D](augmented-reality/unity3d.md)
+
+## Custom installations
+
+* [PapARt installation - version 1.4](custom-installations/papart-installation/README.md)
+  * [Download and installation](custom-installations/papart-installation/download-and-installation.md)
+  * [Test the libray](custom-installations/papart-installation/test-the-libray.md)
+  * [PapARt as a Camera library](custom-installations/papart-installation/untitled/README.md)
+    * [OPENCV](custom-installations/papart-installation/untitled/opencv.md)
+    * [PROCESSING](custom-installations/papart-installation/untitled/processing.md)
+    * [OPENNI2](custom-installations/papart-installation/untitled/openni2.md)
+    * [REALSENSE](custom-installations/papart-installation/untitled/realsense.md)
+    * [FFMPEG](custom-installations/papart-installation/untitled/ffmpeg.md)
+    * [NATAR](custom-installations/papart-installation/untitled/natar.md)
+* [Natar installation - version 0.1](custom-installations/natar-installation-version-0.1.md)
 
 ## Natar services
 
