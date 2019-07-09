@@ -14,6 +14,7 @@
     * [REALSENSE](augmented-reality/papart-installation/untitled/realsense.md)
     * [FFMPEG](augmented-reality/papart-installation/untitled/ffmpeg.md)
     * [NATAR](augmented-reality/papart-installation/untitled/natar.md)
+* [Natar installation - version 0.1](augmented-reality/natar-installation-version-0.1.md)
 
 ## Natar services
 
@@ -50,7 +51,7 @@
 * [Simple Point Cloud](processing-libraries/simple-point-cloud.md)
 * [SVGExtended](processing-libraries/svgextended.md)
 
-## Blog
+## Blog <a id="blog-1"></a>
 
 * [Webpacker, Bootstrap Studio, and Sinatra](blog-1/webpacker-bootstrap-studio-and-sinatra.md)
 * [About Natar and RealityTech](blog-1/about-natar-and-realitytech.md)

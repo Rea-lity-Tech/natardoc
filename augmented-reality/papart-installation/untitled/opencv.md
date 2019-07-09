@@ -24,6 +24,8 @@ Modify the `cameraConfiguration.xml` file to look like so:
 Do not forget to replace the name`0` by your own device number as listed by the `ls` command.
 {% endhint %}
 
+There is no concrete out of the box example to test out your camera with **OpenCV** but you can find several tutorials online on how to do it: [Getting Started With Videos \(Python\)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html)
+
 ## Windows
 
 ## OSX

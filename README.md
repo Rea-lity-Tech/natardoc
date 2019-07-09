@@ -2,7 +2,7 @@
 
 ## Natar: the meta Augmented Reality Toolkit
 
-Natar is an open source project which ambition is to provide the best tools to developpers and experience to customers. The initial focus is to power the Natar Devices by RealityTech. 
+Natar is an open source project which ambition is to provide the best tools to developpers and experience to customers. The initial focus is to power the **Natar** devices by **RealityTech**. 
 
 It is a “meta” toolkit because it includes existing libraries, 3D engines and tracking algorithms and unites them with a communication protocol. 
 

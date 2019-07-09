@@ -59,5 +59,7 @@ For more information about how to edit this file and how to test your camera dri
 At this step, **PapARt** is ready to be used as a camera library.   
 In Processing,  open the `Papart-examples` folder and try running the `first-examples -> camera -> cameraDriver` sketch to ensure that everything is working.
 
+![CameraDriver loading a camera using the Natar driver](../../../.gitbook/assets/cameradriver.png)
+
 
 
