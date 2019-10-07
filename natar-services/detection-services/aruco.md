@@ -9,5 +9,5 @@
 
 ### Marker example
 
-![Example of an Aruco marker](../../.gitbook/assets/image%20%288%29.png)
+![Example of an Aruco marker](../../.gitbook/assets/image%20%2812%29.png)
 

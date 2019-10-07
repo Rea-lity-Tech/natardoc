@@ -15,13 +15,13 @@ QR Codes can encode text information. It can be scaled to contain larger amount 
 
 #### QR Code
 
-![Sample QR Code containing the Wikipedia URL.](../../.gitbook/assets/image%20%286%29.png)
+![Sample QR Code containing the Wikipedia URL.](../../.gitbook/assets/image%20%289%29.png)
 
 #### Barcode 
 
 The same library can read and decode barcodes. 
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 
 

@@ -28,7 +28,7 @@ Cette application dédiée est minimale et la calibration se lance avec la touch
 
 La calibration s'effectue avec la feuille plastifiée fournie avec l'appareil
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 Au verso:
 
@@ -37,6 +37,17 @@ Au verso:
 Ces images sont disponibles dans le dossier  `/usr/share/processing/modes/java/libraries/PapARt/data/markers/`.
 
 Les discussions et conseils pour obtenir une bonne calibration sont sur [FAQ Calibration](http://forum.rea.lity.tech/t/faq-sur-la-calibration-french-prototype-fab-lab/62). Posez des questions, nous aurons des solutions !
+
+### Calibrations pour Unity3D
+
+Les calibrations peuvent être ensuite envoyées dans Natar avec les commandes suivantes: 
+
+```bash
+load-calibrations-to-natar  # Envoi des nouvelles calibrations
+load-local-calibrations     # Envoi de la calibration de base (faite à RealityTech)
+```
+
+Les calibrations de base sont dans votre dossier `~/calibrations`.  Nous conservons un exemplaire en cas de perte. 
 
 ### Création d'applications
 

@@ -9,5 +9,5 @@
 
 ### Marker example
 
-![Example of a ChiliTag](../../.gitbook/assets/image%20%289%29.png)
+![Example of a ChiliTag](../../.gitbook/assets/image%20%2813%29.png)
 

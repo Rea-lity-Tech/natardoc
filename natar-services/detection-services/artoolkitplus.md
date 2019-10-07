@@ -12,5 +12,5 @@
 
 
 
-![Example on an ARToolkit Marker](../../.gitbook/assets/image%20%285%29.png)
+![Example on an ARToolkit Marker](../../.gitbook/assets/image%20%288%29.png)
 

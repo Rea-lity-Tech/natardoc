@@ -24,6 +24,7 @@
 
 ## Natar services
 
+* [Web interface](natar-services/web-interface.md)
 * [Cameras, videos and Images](natar-services/cameras-videos-and-images.md)
 * [Detections](natar-services/detection-services/README.md)
   * [Aruco](natar-services/detection-services/aruco.md)

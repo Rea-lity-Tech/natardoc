@@ -63,7 +63,7 @@ void keyPressed(){
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-![Screenshot of the cloud.pde sketch](../.gitbook/assets/image%20%283%29.png)
+![Screenshot of the cloud.pde sketch](../.gitbook/assets/image%20%284%29.png)
 
 #### Use case in Natar and PapARt 
 
