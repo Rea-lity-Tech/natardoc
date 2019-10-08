@@ -20,7 +20,9 @@
     * [REALSENSE](custom-installations/papart-installation/untitled/realsense.md)
     * [FFMPEG](custom-installations/papart-installation/untitled/ffmpeg.md)
     * [NATAR](custom-installations/papart-installation/untitled/natar.md)
-* [Natar installation - version 0.1](custom-installations/natar-installation-version-0.1.md)
+* [Natar installation - version 0.1](custom-installations/natar-installation-version-0.1/README.md)
+  * [Device initialization](custom-installations/natar-installation-version-0.1/device-initialization.md)
+  * [File organization](custom-installations/natar-installation-version-0.1/file-organization.md)
 
 ## Natar services
 

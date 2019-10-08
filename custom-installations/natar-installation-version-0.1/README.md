@@ -48,7 +48,7 @@ Here is a non-exhaustive list of available services you might want to install:
 * [apps](https://forge.pole-aquinetic.net/nectar-platform/natar-apps) **\(required\)**
 * [redis-image-helper](https://forge.pole-aquinetic.net/nectar-platform/redis-image-helper) **\(required\)**
 * [multi-camera-server](https://forge.pole-aquinetic.net/nectar-platform/natar-multi-camera-server) **\(required\)**
-* [camera-client](../natar-services/viewers/camera-client-java.md)
+* [camera-client](../../natar-services/viewers/camera-client-java.md)
 * [detections](https://forge.pole-aquinetic.net/nectar-platform/natar-detections)
 * [aruco](https://forge.pole-aquinetic.net/nectar-platform/natar-tracker-aruco)
 * [artoolkitplus](https://forge.pole-aquinetic.net/nectar-platform/natar-tracker-artoolkitplus)
@@ -58,7 +58,7 @@ Here is a non-exhaustive list of available services you might want to install:
 Once installed you should now be able to run your first service, let us try with the main service: the camera server.  
 If you are using **Eye** try running the following command: `eye start camera`.  
 If you are not using **Eye** go into the `natar-multi-camera-server/` folder you just downloaded and run the script `run.sh`  
-Then run any camera client \(listed [here](../natar-services/viewers/camera-client-java.md)\) to test if everything is working.
+Then run any camera client \(listed [here](../../natar-services/viewers/camera-client-java.md)\) to test if everything is working.
 
 ## Sinatra
 
