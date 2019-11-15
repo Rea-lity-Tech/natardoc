@@ -24,8 +24,7 @@ The library is used in PapARt and Natar to read markerboards \(list of markers i
 
 ### Example
 
-{% code-tabs %}
-{% code-tabs-item title="LoadDisplaySVG.pde" %}
+{% code title="LoadDisplaySVG.pde" %}
 ```java
 import tech.lity.rea.svgextended.*;
 
@@ -47,6 +46,5 @@ void draw(){
   shape(bot2, 0, 320);
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

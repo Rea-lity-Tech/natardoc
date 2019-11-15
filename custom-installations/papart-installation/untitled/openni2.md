@@ -12,16 +12,14 @@ If the camera is working you can then use **OPENNI2** as your camera driver howe
 To do so go into the `Linux/YourLinuxVersionFolder/` and run the script `install.sh` tjhen go into the `Redist` folder and copy the content into  `/usr/lib/`.   
 Modify the `cameraConfiguration.xml` file to look like so: 
 
-{% code-tabs %}
-{% code-tabs-item title="cameraConfiguration.xml" %}
+{% code title="cameraConfiguration.xml" %}
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
 <Calibration>
   <Camera CameraFormat="rgb" CameraName="0" CameraType="OPENNI2"/>
 </Calibration>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 As previously stated **CameraFormat** could also be set to `depth` or `ir`.
 

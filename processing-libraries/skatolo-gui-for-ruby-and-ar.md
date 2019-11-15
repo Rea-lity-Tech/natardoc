@@ -22,8 +22,7 @@ This library is for an **advanced** use of ControlP5 for multi-touch and special
 
 The second use is as GUI for [JRubyArt](https://github.com/ruby-processing/JRubyArt). We added some features to ControlP5 and a wrapper to make it interact nicely with our Ruby code. Here is an example:
 
-{% code-tabs %}
-{% code-tabs-item title="Slider.rb" %}
+{% code title="Slider.rb" %}
 ```ruby
 require 'skatolo'
 # In this simple sketch we attach a slider to skatolo in the regular way, with
@@ -56,8 +55,7 @@ def create_gui
  end
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### New widgets and features
 
@@ -83,8 +81,7 @@ You can get the latest realease here: [download](https://github.com/Rea-lity-Tec
 
 #### Maven
 
-{% code-tabs %}
-{% code-tabs-item title="pom.xml" %}
+{% code title="pom.xml" %}
 ```markup
 <dependency>
    <groupId>tech.lity.rea</groupId>
@@ -92,6 +89,5 @@ You can get the latest realease here: [download](https://github.com/Rea-lity-Tec
    <version>1.1</version>
 </dependency>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

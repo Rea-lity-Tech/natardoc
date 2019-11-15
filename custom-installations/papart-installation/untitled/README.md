@@ -26,8 +26,7 @@ Usually each camera vendor provides its own drivers.
 At this step you should know what driver you should be using for your webcam thus all that is left to do is to specify it to **PapARt**.  
 When **PapARt** needs to access a camera it reads a configuration file called `cameraConfiguration.xml` located in the `PapARt/data/calibration/` folder. It is the file that needs to be edited with your own camera configuration.
 
-{% code-tabs %}
-{% code-tabs-item title="cameraConfiguration.xml" %}
+{% code title="cameraConfiguration.xml" %}
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
 <Calibration>
@@ -35,8 +34,7 @@ When **PapARt** needs to access a camera it reads a configuration file called `c
 </Calibration>
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Here is a brief description of that file:
 

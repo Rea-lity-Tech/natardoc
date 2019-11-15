@@ -75,14 +75,12 @@ You can start Sinatra and webpacker in one command with foreman: 
 
 You just need a `Procfile` file in the sinatra folder: 
 
-{% code-tabs %}
-{% code-tabs-item title="Procfile" %}
+{% code title="Procfile" %}
 ```text
 web: bundle exec ruby nectar.rb
 pack: yarn start 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 #### Switch to production 
 
@@ -111,8 +109,7 @@ The pages exported in BS Studio store the assets \(HTML/CSS/JS\) in an `asset` f
 Do not export your Bootstrap Studio project directly to the Sinatra project. This deployment script deletes the existing assets. 
 {% endhint %}
 
-{% code-tabs %}
-{% code-tabs-item title="export\_bs\_to\_sinatra.sh" %}
+{% code title="export\_bs\_to\_sinatra.sh" %}
 ```bash
 #!/bin/bash
 
@@ -147,8 +144,7 @@ rm *.html 2> /dev/null
 rm *.html.tmp 2> /dev/null 
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
  
 

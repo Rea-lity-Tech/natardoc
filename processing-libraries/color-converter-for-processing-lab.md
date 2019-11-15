@@ -47,8 +47,7 @@ Full example on github: [lab.pde](https://github.com/Rea-lity-Tech/ColorConverte
 
 Here are the prototypes of the methods you can use: 
 
-{% code-tabs %}
-{% code-tabs-item title="ColorConverter.java" %}
+{% code title="ColorConverter.java" %}
 ```java
  /**
      * @param H Hue angle/360 (0..1)
@@ -98,8 +97,7 @@ Here are the prototypes of the methods you can use: 
     public double[] XYZtoxyY(double X, double Y, double Z) 
     public double[] XYZtoxyY(double[] XYZ) 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 You can check the full source: [https://github.com/Rea-lity-Tech/ColorConverter/blob/master/src/tech/lity/rea/colorconverter/ColorConverter.java](https://github.com/Rea-lity-Tech/ColorConverter/blob/master/src/tech/lity/rea/colorconverter/ColorConverter.java) 
 

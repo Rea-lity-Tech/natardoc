@@ -14,8 +14,7 @@ Download the library: [`SimplePointCloud`](https://github.com/Rea-lity-Tech/Simp
 
 You can use it directly to do generative art. We created two examples that performs well with 100k points. Here is a simple example with 50k points: 
 
-{% code-tabs %}
-{% code-tabs-item title="cloud.pde" %}
+{% code title="cloud.pde" %}
 ```java
 import tech.lity.rea.pointcloud.PointCloud;
 import tech.lity.rea.pointcloud.DepthPoint;
@@ -60,8 +59,7 @@ void keyPressed(){
     background(40);
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ![Screenshot of the cloud.pde sketch](../.gitbook/assets/image%20%284%29.png)
 

@@ -20,16 +20,14 @@ When building `natar-multi-camera-server` and `natar-camera-client`it will build
 
 Once everything is perfectly working you can configure you `cameraConfiguration.xml` file for **PapARt** to use this new sort-of camera driver like so:
 
-{% code-tabs %}
-{% code-tabs-item title="cameraConfiguration.xml" %}
+{% code title="cameraConfiguration.xml" %}
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
 <Calibration>
   <Camera CameraFormat="rgb" CameraName="$name" CameraType="NECTAR"/>
 </Calibration>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 {% hint style="info" %}
 Natar driver does not currently support IR **CameraFormat**.  

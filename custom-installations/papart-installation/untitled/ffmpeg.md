@@ -13,8 +13,7 @@ For more information on how to use **FFMPEG** for video capture please refer to 
 
 If the camera is working you can then use **FFMPEG** as your camera driver. Modify the `cameraConfiguration.xml` file to look like so: 
 
-{% code-tabs %}
-{% code-tabs-item title="cameraConfiguration.xml" %}
+{% code title="cameraConfiguration.xml" %}
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
 <Calibration>
@@ -22,8 +21,7 @@ If the camera is working you can then use **FFMPEG** as your camera driver. Modi
 </Calibration>
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 {% hint style="warning" %}
 Do not forget to replace the name`/dev/video0` by your own device name as listed by the `v4l2-ctl` command.

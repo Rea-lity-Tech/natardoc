@@ -29,8 +29,7 @@ CMakeLists.txt`
 
 The service will be built using CMake with the following **CMakeLists.txt**
 
-{% code-tabs %}
-{% code-tabs-item title="CMakeLists.txt" %}
+{% code title="CMakeLists.txt" %}
 ```cpp
 cmake_minimum_required (VERSION 3.2)
 project (natar-blur VERSION 0.1)
@@ -56,8 +55,7 @@ set(BLUR_SERVER
 add_executable(${PROJECT_NAME} ${BLUR_SERVER})
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS} ${REDISIMAGEHELPER_LIBS} ${HIREDIS_LIBS} ${EV_LIBS})
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### Building the service
 

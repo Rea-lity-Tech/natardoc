@@ -8,8 +8,7 @@
 
 Modify the `cameraConfiguration.xml` file to look like so: 
 
-{% code-tabs %}
-{% code-tabs-item title="cameraConfiguration.xml" %}
+{% code title="cameraConfiguration.xml" %}
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
 <Calibration>
@@ -17,8 +16,7 @@ Modify the `cameraConfiguration.xml` file to look like so:
 </Calibration>
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 {% hint style="warning" %}
 Do not forget to replace the name`0` by your own device number as listed by the `ls` command.
